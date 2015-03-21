@@ -58,7 +58,7 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+%\lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -92,7 +92,7 @@
 \subsection{of Technology}
 \descript{BS in Physics}
 \location{August 2008 - June 2012 | Pasadena, CA}
-\location{ Cum. GPA: ??/ 4.0}
+\location{ Cum. GPA: 3.4 / 4.0}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,32 +106,49 @@ YouTube://  \href{https://www.youtube.com/channel/UCo1RVaq2aqTJMRZGzQa45WQ}{\bf 
 Twitter://  \href{https://twitter.com/Travis_Sch}{\bf @Travis\_Sch} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Graduate}
-???
-\sectionsep
-
-\subsection{Undergraduate}
-???
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
+\location{Over 20000 lines:}
 \LaTeX\ \\ 
 \location{Over 1000 lines:}
-Python \textbullet{}  \\
+Python  2.7\\
 \location{Familiar:}
 Bash \textbullet{} HTML
 \subsection{Tools}
-jekyll \textbullet{} git
+jekyll \textbullet{} git \textbullet{} ipython
+\subsection{Concepts}
+Statistics - Model Selection
 \sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TO LEARN/DO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{To Do}
+\subsection{Programming}
+Learn julia language\\
+Learn GPU programming
+\subsection{Concepts}
+Model Validation\\
+Machine Learning\\
+Data Mining\\
+Software Management
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\section{Coursework}
+%\subsection{Graduate}
+
+%\sectionsep
+
+%\subsection{Undergraduate}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -161,11 +178,18 @@ jekyll \textbullet{} git
 
 \runsubsection{University of New Mexico}
 \descript{| Teaching Assistant}
-\location{August 2012 – May 2013 | Albuquerque, NM}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\location{August 2012 â May 2013 | Albuquerque, NM}
 \begin{tightemize}
 \item Taught undergraduate labs and helped with a graduate level course
 \item Wrote personal lecture notes, graded homework assignments, and held office hours
+\end{tightemize}
+\sectionsep
+
+\runsubsection{California Institute of Technology}
+\descript{| Tour Guide }
+\location{June 2011 - June 2012 | Pasadena, CA}
+\begin{tightemize}
+\item Guided prospective students around campus and answered questions
 \end{tightemize}
 \sectionsep
 
@@ -193,7 +217,7 @@ I work with Robin Blume-Kohout on problems related to statistical inference in q
 \runsubsection{California Institute of Technology}
 \descript{| Summer Undergraduate Research Fellow}
 \location{June 2011 - September 2011 | Pasadena, CA}
-I worked with Spyridon Michalakis to \textbf{develop a Matlab code base for numerical simulation} to address a problem related to the computational efficiency of a particular model of quantum computation. I presented my work at an annual speaking competition, where I advanced to the final round.
+I worked with Spyridon Michalakis to \textbf{develop a Matlab code base for numerical simulation} to understand the computational efficiency of a particular model of quantum computation. 
 \sectionsep
 
 \runsubsection{University of California, Los Angeles}
@@ -219,11 +243,11 @@ I worked in Ya-Hong Xie's group characterizing graphene samples. We did so to un
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+%\section{Publications} 
+%\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+%\bibliographystyle{abbrv}
+%\bibliography{publications}
+%\nocite{*}
 
 \end{minipage} 
-\end{document}  \documentclass[]{article}
+\end{document} 
