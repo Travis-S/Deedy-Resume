@@ -1,5 +1,6 @@
 Deedy-Resume
 =========================
+My fork of the Deedy-Resume repository.
 
 A **one page** , **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
 As of **v1.2**, there is an option to choose from two templates:
@@ -8,6 +9,11 @@ As of **v1.2**, there is an option to choose from two templates:
 2. **OpenFonts** - uses free open sourced variants that resemble the above. We use *Lato* (and many of its variants) and *Raleway*.
 
 It is licensed under the Apache License 2.0.
+
+## Use
+
+Users should modify the file `resume.xtx` with their own resume information. Then, to compile the resume into a font format `foo`, simply use the code `make foo`. The Makefile will take care of ensuring the correct font family is used in the compilation. See the Makefile for more information.
+
 
 ## Motivation
 
@@ -36,6 +42,11 @@ This template attempts to **not look horrible**, allow **detail**, be a **single
 4. **ShareLatex**.com (v1 fonts changes) - [compilable online](https://www.sharelatex.com/templates/cv-or-resume/deedy-resume)
 
 ## Changelog
+
+### v1.3
+1. Merged together the OpenFonts and MacFonts directories in favor of  a single `fonts` directory,
+and provided support for compiling into different font styles using a make file.
+
 ### v1.2
  1. Added publications in place of societies.
  2. Collapsed a portion of education.
@@ -49,12 +60,8 @@ This template attempts to **not look horrible**, allow **detail**, be a **single
  5. Commented .sty file.
 
 ## TODO
-1. Merge OpenFont and MacFonts as a single sty with options.
-2. Figure out a smoother way for the document to flow onto the next page.
-3. Add styling information for a "Projects/Hacks" section.
-4. Add location/address information
-5. Fix the hacky 'References' omission outside the .cls file in the MacFonts version.
-6. Add various styling and section options and allow for multiple pages smoothly.
+1. Provide explanation of the various input parameters to the resume, to facilitate
+easy development of a new resume from the template.
 
 ## Known Issues:
 1. Overflows onto second page if any column's contents are more than the vertical limit
