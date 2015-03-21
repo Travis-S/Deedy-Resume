@@ -1,17 +1,14 @@
 SHELL := /bin/bash
-
-# Will help with automated paper generation
-# The way make works is to detect when some files have been updated, and then update the files which depend
-# on those files. To call make on this file, use make -f paper.mk
-# This command will only build things if things have been updated.
-# To force make to regenerate everything, regardless
-# of whether it has been updated, use make -B -f paper.mk
+# Will help with automated resume generation
+# We use a variable called fontstyle in resume.xtx
+# and sed find/replace to put the correct font style
+# in its place. 
 
 SOURCE := resume
 
 target : $(resume).pdf
 
-# Recompile the tex document into a pdf
+# Recompile the xtx document into a pdf
 $(SOUCRE).pdf : $(SOURCE).xtx
 	xelatex $(SOURCE).xtx
 
