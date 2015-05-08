@@ -1,9 +1,9 @@
-Deedy-Resume
+Resume
 =========================
 My fork of the Deedy-Resume repository.
 
-A **one page** , **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
-As of **v1.2**, there is an option to choose from two templates:
+A **one page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
+As of **v1.3**, there is an option to choose from two templates:
 
 1. **MacFonts** - uses fonts native to OSX - *Helvetica*, *Helvetica Neue* (and it's Light and Ultralight versions) and the CJK fonts *Heiti SC*, and *Heiti TC*. The EULA of these fonts prevents distribution on Open Source.
 2. **OpenFonts** - uses free open sourced variants that resemble the above. We use *Lato* (and many of its variants) and *Raleway*.
@@ -24,7 +24,7 @@ This template attempts to **not look horrible**, allow **detail**, be a **single
 ## Preview
 
 ### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
+![alt tag](https://github.com/Travis-S/Resume/blob/master/openfontresume.pdf)
 
 ### MacFonts
 ![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
