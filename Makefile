@@ -14,18 +14,23 @@ $(SOUCRE).pdf : $(SOURCE).xtx
 
 clean:
 	rm *.log *.aux *.out
+	rm $(SOURCE).xtx.xtx
 
 openfont:
 	sed -i .xtx 's/fontstyle/openfont/g' resume.xtx #changing the fontstyle variable
 	touch $(SOURCE).xtx
 	make target
-	make clean
 	sed -i .xtx 's/openfont/fontstyle/g' resume.xtx #changing it back
-	rm $(SOURCE).xtx.xtx
+	mv resume.pdf openfontresume.pdf
+	make clean
 
 macfont:
 	sed -i .xtx 's/fontstyle/macfont/g' resume.xtx #changing the fontstyle variable
 	touch $(SOURCE).xtx
 	make target
-	make clean
 	sed -i .xtx 's/macfont/fontstyle/g' resume.xtx #changing it back
+	mv resume.pdf macfontresume.pdf
+	make clean
+all:
+	make openfont
+	make macfont
