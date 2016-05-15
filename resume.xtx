@@ -55,9 +55,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Travis}{Scholten}{ \urlstyle{same}\href{http://travis-s.github.io}{travis-s.github.io}\\
-\href{mailto:travisscholten@gmail.com}{travisscholten@gmail.com} | \href{mailto:tscholten@unm.edu}{tscholten@unm.edu}
-}
+\namesection{Travis}{Scholten}{ \urlstyle{same}\href{http://travis-s.github.io}{travis-s.github.io}~~~
+\href{mailto:travisscholten@gmail.com}{travisscholten@gmail.com}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -74,8 +73,8 @@
 \section{Education} 
 
 \subsection{University of New Mexico}
-\descript{Ph D in Physics}
-\location{August 2012 - Present | Albuquerque, NM}
+\descript{Ph D Physics}
+\location{August 2012 - Present}
 \location{Cum. GPA: 3.87 / 4.0}
 \descript{MS in Physics}
 \location{June 2015}
@@ -83,8 +82,8 @@
 
 \subsection{California Institute}
 \subsection{of Technology}
-\descript{BS in Physics}
-\location{August 2008 - June 2012 | Pasadena, CA}
+\descript{BS Physics}
+\location{August 2008 - June 2012}
 \location{ Cum. GPA: 3.4 / 4.0}
 \sectionsep
 
@@ -111,7 +110,7 @@ Python  2.7\\
 \location{Familiar:}
 Bash \textbullet{} HTML
 \subsection{Tools}
-jekyll \textbullet{} git \textbullet{} ipython
+jekyll \textbullet{} git \textbullet{} Jupyter
 \subsection{Concepts}
 Statistics - Model Selection
 \sectionsep
@@ -180,7 +179,7 @@ Software Management
 
 \runsubsection{University of New Mexico}
 \descript{| Teaching Assistant}
-\location{August 2012 - May 2013 | Albuquerque, NM}
+\location{August 2012 - May 2013 | Albuquerque, NM}
 \begin{tightemize}
 \item Taught undergraduate labs and helped with a graduate level course
 \item Wrote personal lecture notes, graded homework assignments, and held office hours
