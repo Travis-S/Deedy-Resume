@@ -4,9 +4,8 @@ My fork of the Deedy-Resume repository.
 
 A **one page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
 As of **v1.3**, there is an option to choose from two templates:
-
 1. **MacFonts** - uses fonts native to OSX - *Helvetica*, *Helvetica Neue* (and it's Light and Ultralight versions) and the CJK fonts *Heiti SC*, and *Heiti TC*. The EULA of these fonts prevents distribution on Open Source.
-2. **OpenFonts** - uses free open sourced variants that resemble the above. We use *Lato* (and many of its variants) and *Raleway*.
+2. **OpenFonts** - uses free, open-source fonts that resemble the above - *Lato* (and its various variants) and *Raleway*.
 
 It is licensed under the Apache License 2.0.
 
@@ -17,9 +16,9 @@ Users should modify the file `resume.xtx` with their own resume information. The
 
 ## Motivation
 
-Common LaTeX resume-builders such as [**moderncv**](http://www.latextemplates.com/template/moderncv-cv-and-cover-letter)  and the [**friggeri-cv**](https://github.com/afriggeri/cv) look great if you're okay with a multipage resume with numerous citations, but usually isn't ideal for making a thorough single-page one. A lot of companies today search resumes based on [keywords](http://www.businessinsider.com/most-big-companies-have-a-tracking-system-that-scans-your-resume-for-keywords-2012-1) but at the same time require/prefer a one page resume, especially for undergraduates. 
+Common LaTeX resume-builders such as [**moderncv**](http://www.latextemplates.com/template/moderncv-cv-and-cover-letter)  and the [**friggeri-cv**](https://github.com/afriggeri/cv) look great if you're looking for a multi-page resume with numerous citations, but usually imperfect for making a thorough, single-page one. A lot of companies today search resumes based on [keywords](http://www.businessinsider.com/most-big-companies-have-a-tracking-system-that-scans-your-resume-for-keywords-2012-1) but at the same time require/prefer a one-page resume, especially for undergraduates. 
 
-This template attempts to **not look horrible**, allow **detail**, be a **single page**, and allow useful **LaTeX templating**.
+This template attempts to **look clean**, highlight **details**, be a **single page**, and allow useful **LaTeX templating**.
 
 ## Preview
 See the attached pdfs in the repository to preview how the resume would look.
@@ -44,7 +43,7 @@ and provided support for compiling into different font styles using a make file.
  1. Fixed several compilation bugs with \renewcommand
  2. Got Open-source fonts (Windows/Linux support)
  3. Added Last Updated
- 4. Move Title styling into .sty
+ 4. Moved Title styling into .sty
  5. Commented .sty file.
 
 ## TODO
