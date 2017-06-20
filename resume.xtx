@@ -226,11 +226,11 @@ I worked in Ya-Hong Xie's group characterizing graphene samples. We did so to un
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\section{Publications} 
-%\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-%\bibliographystyle{abbrv}
-%\bibliography{publications}
-%\nocite{*}
+\section{Publications} 
+~\\~\\ %\renewcommand\refname{\vskip} % Couldn't get this working from the .cls file
+\bibliography{resume}
+\bibliographystyle{plain}
+\nocite{*}
 
 \end{minipage} 
 \end{document} 
