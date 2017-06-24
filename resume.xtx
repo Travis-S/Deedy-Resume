@@ -100,16 +100,15 @@ Twitter:  \href{https://twitter.com/Travis_Sch}{\bf @Travis\_Sch} \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 20000 lines:}
-\LaTeX\ \\ 
-\location{Over 1000 lines:}
-Python  2.7\\
+\location{Competent:}
+\LaTeX\ \textbullet{} Python  2.7\\
 \location{Familiar:}
 Bash \textbullet{} HTML
 \subsection{Tools}
-jekyll \textbullet{} git \textbullet{} Jupyter
+git \textbullet{} Jupyter notebooks \textbullet{} jekyll \textbullet{}\\
+Scipy computing stack \textbullet{}Matplotlib \textbullet{} Pandas
 \subsection{Concepts}
-Statistics - Model Selection
+Statistics \textbullet{} Model Selection
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
