@@ -168,28 +168,30 @@ Statistics \textbullet{} Model Selection
 \runsubsection{Sandia National Laboratories}
 \descript{| Student Intern}
 \location{May 2013 - Present | Albuquerque, NM}
+Engaged in self-directed and collaborative work with colleagues for my PhD research in quantum characterization, verification, and validation. I am specializing in the use of model selection and hypothesis testing techniques to address such problems.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Developed Python code base for scientific computation
-\item Learned to use HPC cluster(s)
-\item Presented multiple talks and posters on my research
+\item Developed from scratch a 1300-line Python code base for scientific computation, as well as Jupyter notebooks for data analysis and visualization
+\item Learned to use a high-performance computing cluster, including code parallelization techniques
+\item Presented multiple conference talks and posters about my work
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Prescio Consulting}
 \descript{| Student Intern}
 \location{June 2015 - August 2015 | Casa Grande, AZ}
+Performed model sensitivity analysis for clients.
 \begin{tightemize}
-\item Worked with SAS  code base for banking model sensitivity analysis
-\item Wrote articles for company website
+\item Updated a SAS code base for analysis
+\item Wrote short articles for company website
 \end{tightemize}
 \sectionsep
 
 \runsubsection{University of New Mexico}
 \descript{| Teaching Assistant}
 \location{August 2012 - May 2013 | Albuquerque, NM}
+Taught undergraduate labs and helped with a graduate level course.
 \begin{tightemize}
-\item Taught undergraduate labs and helped with a graduate level course
 \item Wrote personal lecture notes, graded homework assignments, and held office hours
 \end{tightemize}
 \sectionsep
@@ -205,9 +207,10 @@ Statistics \textbullet{} Model Selection
 \runsubsection{California Institute of Technology}
 \descript{| Summer Undergraduate Research Fellow }
 \location{June 2011 - September 2011 | Pasadena, CA}
+Developed research skills and techniques during a summer project to understand the computational efficiency of a particular adiabatic quantum computation. 
 \begin{tightemize}
 \item Wrote Matlab code for numerical simulations
-\item Presented research at annual speaking competition, where I advanced to the final round
+\item Presented my research at the annual Perpall speaking competition, where I advanced to the final round
 \end{tightemize}
 \sectionsep
 
@@ -216,23 +219,11 @@ Statistics \textbullet{} Model Selection
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Sandia National Laboratories}
-\descript{| Student Intern}
-\location{May 2013 - Present | Albuquerque, NM}
-I work with Robin Blume-Kohout on problems related to statistical inference in quantum tomography. I am specializing in the use of \textbf{model selection and hypothesis testing} techniques to address these problems.  
-\sectionsep
-
-\runsubsection{California Institute of Technology}
-\descript{| Summer Undergraduate Research Fellow}
-\location{June 2011 - September 2011 | Pasadena, CA}
-I worked with Spyridon Michalakis to \textbf{develop a Matlab code base for numerical simulation} to understand the computational efficiency of a particular model of quantum computation. 
-\sectionsep
-
-\runsubsection{University of California, Los Angeles}
-\descript{| Lab Assistant}
-\location{June 2009 - September 2009 | Los Angeles, CA}
-I worked in Ya-Hong Xie's group characterizing graphene samples. We did so to understand how growth conditions of the graphene affected surface characteristics.
+%\section{Research}
+%\runsubsection{University of California, Los Angeles}
+%\descript{| Lab Assistant}
+%\location{June 2009 - September 2009 | Los Angeles, CA}
+%I worked in Ya-Hong Xie's group characterizing graphene samples. We did so to understand how growth conditions of the graphene affected surface %characteristics.
 
 
 
