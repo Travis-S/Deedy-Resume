@@ -56,7 +56,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Travis L}{Scholten}{ \urlstyle{same}\href{http://travisscholten.com}{http://travisscholten.com}~~~
-\href{mailto:travisscholten@gmail.com}{travisscholten@gmail.com}}
+\href{mailto:travisscholten@pm.me}{travisscholten@pm.me}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -74,7 +74,7 @@
 
 \subsection{University of New Mexico}
 \descript{Ph D Physics}
-\location{August 2012 - Present}
+\location{August 2012 - September 2018}
 \descript{MS in Physics}
 \location{June 2015}
 \sectionsep
@@ -100,15 +100,13 @@ Twitter:  \href{https://twitter.com/Travis_Sch}{\bf @Travis\_Sch} \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Competent:}
-\LaTeX\ \textbullet{} Python  2.7\\
-\location{Familiar:}
+\location{Expert:}
+Python \textbullet{} Numpy \textbullet pandas\\
+\location{Intermediate:}
+git \textbullet{} Jupyter notebook \textbullet{} \\
+seaborn \textbullet{} data visualization\\
+\location{Basic:}
 Bash \textbullet{} HTML
-\subsection{Tools}
-git \textbullet{} Jupyter notebooks \textbullet{} jekyll \textbullet{}\\
-Scipy computing stack \textbullet{}Matplotlib \textbullet{} Pandas
-\subsection{Concepts}
-Statistics \textbullet{} Model Selection
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -146,7 +144,7 @@ Statistics \textbullet{} Model Selection
 ~~~~~~~~~~~~~~~Workshop\\
 2016-17: Vice-Chair, GPSA Finance\\
 ~~~~~~~~~~~~~~~~~~~~~~Committee\\
-2015-17: GPSA Council Representative\\
+2015-17: GPSA Council Representative,\\
 ~~~~~~~~~~~~~~~~~~~~~~~Physics and Astronomy
 \sectionsep
 
@@ -165,10 +163,15 @@ Statistics \textbullet{} Model Selection
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
+\runsubsection{IBM}
+\descript{| Quantum Computing Solutions Developer}
+\location{October 2018 - present | Yorktown Heights, NY}
+\sectionsep
+
 \runsubsection{Sandia National Laboratories}
 \descript{| Student Intern}
-\location{May 2013 - Present | Albuquerque, NM}
-Engaged in self-directed and collaborative work with colleagues for my PhD research in quantum characterization, verification, and validation. I am specializing in the use of model selection and hypothesis testing techniques to address such problems.
+\location{May 2013 - September 2018 | Albuquerque, NM}
+Engaged in self-directed and collaborative work with colleagues for my PhD research in quantum characterization, verification, and validation. My research specialized in model selection, hypothesis testing, and machine learning techniques for characterizing quantum hardware.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Developed from scratch a 1300-line Python code base for scientific computation, as well as Jupyter notebooks for data analysis and visualization
@@ -177,15 +180,15 @@ Engaged in self-directed and collaborative work with colleagues for my PhD resea
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Prescio Consulting}
-\descript{| Student Intern}
-\location{June 2015 - August 2015 | Casa Grande, AZ}
-Performed model sensitivity analysis for clients.
-\begin{tightemize}
-\item Updated a SAS code base for analysis
-\item Wrote short articles for company website
-\end{tightemize}
-\sectionsep
+%\runsubsection{Prescio Consulting}
+%\descript{| Student Intern}
+%\location{June 2015 - August 2015 | Casa Grande, AZ}
+%Performed model sensitivity analysis for clients.
+%\begin{tightemize}
+%\item Updated a SAS code base for analysis
+%\item Wrote short articles for company website
+%\end{tightemize}
+%\sectionsep
 
 \runsubsection{University of New Mexico}
 \descript{| Teaching Assistant}
@@ -214,16 +217,17 @@ Developed research skills and techniques during a summer project to understand t
 \end{tightemize}
 \sectionsep
 
+%\runsubsection{University of California, Los Angeles}
+%\descript{| Lab Assistant}
+%\location{June 2009 - September 2009 | Los Angeles, CA}
+%I worked in Ya-Hong Xie's group characterizing graphene samples. We did so to understand how growth conditions of the graphene affected surface %characteristics.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\section{Research}
-%\runsubsection{University of California, Los Angeles}
-%\descript{| Lab Assistant}
-%\location{June 2009 - September 2009 | Los Angeles, CA}
-%I worked in Ya-Hong Xie's group characterizing graphene samples. We did so to understand how growth conditions of the graphene affected surface %characteristics.
+
 
 
 
