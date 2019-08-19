@@ -163,9 +163,10 @@ Bash \textbullet{} HTML
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{IBM}
-\descript{| Quantum Computing Solutions Developer}
+\runsubsection{IBM Q}
+\descript{| Quantum Computing Applications Researcher}
 \location{October 2018 - present | Yorktown Heights, NY}
+I work with startups in the IBM Q Network to do joint research and development and other technical projects. This includes exploring applications of near-term quantum devices, and helping integrating/interfacing software into our Qiskit programming stack.
 \sectionsep
 
 \runsubsection{Sandia National Laboratories}
