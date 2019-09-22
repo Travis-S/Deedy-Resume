@@ -95,18 +95,30 @@ LinkedIn:  \href{https://www.linkedin.com/pub/travis-scholten/b3/6b4/aa9}{\bf Tr
 Twitter:  \href{https://twitter.com/Travis_Sch}{\bf @Travis\_Sch} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROFESSIONAL AFFILIATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Associations}
+2019: IEEE\\
+2015-present: American Physical Society
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
 \subsection{Programming}
-\location{Expert:}
+%\location{Expert:}
 Python \textbullet{} Numpy \textbullet pandas\\
-\location{Intermediate:}
+%\location{Intermediate:}
 git \textbullet{} Jupyter notebook \textbullet{} \\
 seaborn \textbullet{} data visualization\\
-\location{Basic:}
+%\location{Basic:}
 Bash \textbullet{} HTML
+\subsection{Soft}
+Talks (17) \textbullet{} Posters (3)\\
+Invited speaker IQT 2019\\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -124,7 +136,7 @@ Bash \textbullet{} HTML
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Recent Awards}
+\section{Awards}
 2017: Brian E Col\'{o}n Exemplary Service\\
 ~~~~~~~~~~~~~~~ Award: UNM GPSA\\
 2016: Excellence in Ethics Award\\
