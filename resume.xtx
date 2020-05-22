@@ -55,8 +55,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Travis L}{Scholten}{ \urlstyle{same}\href{http://travisscholten.com}{http://travisscholten.com}~~~
-\href{mailto:travisscholten@gmail.com}{travisscholten@gmail.com}}
+\namesection{Travis L}{Scholten}{ \urlstyle{same}\href{http://travisscholten.com}{Website}~~
+\href{https://www.linkedin.com/pub/travis-scholten/b3/6b4/aa9}{LinkedIn}~~\href{https://twitter.com/Travis_Sch}{Twitter}~~\href{mailto:travisscholten@gmail.com}{Email}~~\href{https://github.com/Travis-S}{Github}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -74,25 +74,22 @@
 
 \subsection{University of New Mexico}
 \descript{Ph D Physics}
-\location{August 2012 - September 2018}
+\location{2012 August - 2018 September}
 \descript{MS in Physics}
-\location{June 2015}
+\location{2015 June }
 \sectionsep
 
 \subsection{California Institute}
 \subsection{of Technology}
 \descript{BS Physics}
-\location{August 2008 - June 2012}
+\location{2008 August - 2012 June}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
-Github: \href{https://github.com/Travis-S}{\bf Travis-S} \\
-LinkedIn:  \href{https://www.linkedin.com/pub/travis-scholten/b3/6b4/aa9}{\bf Travis Scholten} \\
-Twitter:  \href{https://twitter.com/Travis_Sch}{\bf @Travis\_Sch} \\
+%\section{Links} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROFESSIONAL AFFILIATIONS
@@ -101,6 +98,21 @@ Twitter:  \href{https://twitter.com/Travis_Sch}{\bf @Travis\_Sch} \\
 \section{Associations}
 2019-present: IEEE\\
 2015-present: American Physical Society
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     OTHER EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Other Experience}
+2020: Advisory board member, Unitary\\
+~~~~~~~~~~~~~~Fund\\
+2017: Organizer, CQuIC Computing\\
+~~~~~~~~~~~~~~~Workshop\\
+2016-17: Vice-Chair, GPSA Finance\\
+~~~~~~~~~~~~~~~~~~~~~~Committee\\
+2015-17: GPSA Council Representative,\\
+~~~~~~~~~~~~~~~~~~~~~~~Physics and Astronomy
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -116,7 +128,7 @@ git \textbullet{} Jupyter notebook \textbullet{} \\
 seaborn \textbullet{} data visualization\\
 %\location{Basic:}
 \subsection{Soft}
-Talks (17) \textbullet{} Posters (3)\\
+Academic conference presentations\\
 Invited speaker IQT 2019\\
 \sectionsep
 
@@ -146,20 +158,6 @@ Invited speaker IQT 2019\\
 ~~~~~~~~~~~~~~~UNM GPSA\\
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     OTHER EXPERIENCE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Other Experience}
-2020: Advisory board member, Unitary\\
-~~~~~~~~~~~~~~~~~Fund\\
-2017: Organizer, CQuIC Computing\\
-~~~~~~~~~~~~~~~Workshop\\
-2016-17: Vice-Chair, GPSA Finance\\
-~~~~~~~~~~~~~~~~~~~~~~Committee\\
-2015-17: GPSA Council Representative,\\
-~~~~~~~~~~~~~~~~~~~~~~~Physics and Astronomy
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -183,14 +181,17 @@ I work with startups in the IBM Q Network to do joint research and development a
 \sectionsep
 
 \runsubsection{Sandia National Laboratories}
-\descript{| Student Intern}
-\location{May 2013 - September 2018 | Albuquerque, NM}
-PhD research in quantum characterization, verification, and validation specializing in model selection, hypothesis testing, and machine learning techniques for characterizing quantum hardware.
+%\descript{| Student Intern}
+| Student Intern \\
+\location{2013 May - 2018 September | Albuquerque, NM}
+PhD research in quantum characterization, verification, and validation specializing in model selection, hypothesis testing, and machine learning techniques.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Developed a 1300-line Python code base research, data analysis, and visualization
 \item Used a high-performance computing cluster and learned code parallelization techniques
 \item Presented multiple conference talks (10+) and posters
+\item Participated in graduate student association legislature as a member, and became Finance Council Vice-Chair
+\item Organized computing workshop for research group
 \end{tightemize}
 \sectionsep
 
@@ -205,12 +206,12 @@ PhD research in quantum characterization, verification, and validation specializ
 %\sectionsep
 
 \runsubsection{University of New Mexico}
-\descript{| Teaching Assistant}
-\location{August 2012 - May 2013 | Albuquerque, NM}
+%\descript{| Teaching Assistant}
+| Teaching Assistant, Physics and Astronomy \\
+\location{2012 August - 2013 May | Albuquerque, NM}
 Taught undergraduate labs and helped with a graduate level course.
 \begin{tightemize}
 \item Wrote lecture notes, graded homework assignments, and held office hours
-\item Participated in graduate student association legislature as a member, and became Finance Council Vice-Chair.
 \end{tightemize}
 \sectionsep
 
@@ -223,8 +224,9 @@ Taught undergraduate labs and helped with a graduate level course.
 %\sectionsep
 
 \runsubsection{California Institute of Technology}
-\descript{| Summer Undergraduate Research Fellow }
-\location{June 2011 - September 2011 | Pasadena, CA}
+%\descript{| Summer Undergraduate Research Fellow }
+| Summer Undergraduate Research Fellow \\
+\location{2011 June - 2011 September | Pasadena, CA}
 Research project on adiabatic quantum computation. 
 \begin{tightemize}
 \item Wrote Matlab code for numerical simulations
