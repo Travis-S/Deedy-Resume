@@ -177,7 +177,17 @@ Invited speaker IQT 2019\\
 \runsubsection{IBM Quantum}
 | Quantum Computing Applications Researcher \\
 \location{2018 October - present | Yorktown Heights, NY}
-I work with startups in the IBM Q Network to do joint research and development and other technical projects. This includes exploring applications of near-term quantum devices, and helping integrating/interfacing software into our Qiskit programming stack.
+Identify and execute on opportunities for collaboration with IBM Q Network startups, and support IBM Quantum's business development team.
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Presented 20+ quantum computing talks to potential and actual clients
+\item Built and maintain Airtable database of IBM Q Network research papers
+\item Assist business development team in use case/application discussions
+\item Completed 1 research project with IBM Q Network startup
+\item Defined technical interview questionnaire for IBM Q Startup program
+\item Lead organizer of IBM Quantum involvement in IEEE Quantum Week 2020 (20+ people)
+\item Organized team's bi-weekly journal club
+\end{tightemize}
 \sectionsep
 
 \runsubsection{Sandia National Laboratories}
