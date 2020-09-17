@@ -11,6 +11,8 @@ target : $(resume).pdf
 # Recompile the xtx document into a pdf
 $(SOUCRE).pdf : $(SOURCE).xtx
 	xelatex $(SOURCE).xtx
+	bibtex $(SOURCE).aux
+	xelatex $(SOURCE).xtx
 
 clean:
 	rm *.log *.aux *.out
