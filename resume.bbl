@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{Scholten2020b}
+Erik Nielsen, John King Gamble, Kenneth Rudinger, \textbf{Travis L Scholten}, Kevin Young, and Robin Blume-Kohout.
+\newblock {Gate Set Tomography}.
+\newblock {\href{https://arxiv.org/abs/2009.07301}{\em{arXiv} 2009.07301}}.
+
+\bibitem{Scholten2020}
+Daniel Mills, Seyon Sivarajah, \textbf{Travis~L Scholten}, and Ross Duncan.
+\newblock {Application-Motivated, Holistic Benchmarking of a Full Quantum
+  Computing Stack}.
+\newblock {\href{https://arxiv.org/abs/2006.01273}{\em{arXiv} 2006.01273}}.
+
+\bibitem{Scholten}
+\textbf{Travis~L Scholten}, Yi-Kai Liu, Kevin Young, and Robin Blume-Kohout.
+\newblock {Classifying single-qubit noise using machine learning}.
+\newblock {\href{https://arxiv.org/abs/1908.11762}{\em{arXiv} 1908.11762}}
+
+\bibitem{Scholten2016a}
+\textbf{Travis~L Scholten} and Robin Blume-Kohout.
+\newblock {Behavior of the maximum likelihood in quantum state tomography}.
+\newblock {\href{https://dx.doi.org/10.1088/1367-2630/aaa7e2}{\emph{New Journal of Physics} \textbf{20} 023050}}
+
+\end{thebibliography}
