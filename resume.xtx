@@ -74,7 +74,7 @@
 \subsection{University of New Mexico}
 \descript{Ph D Physics}
 \location{2012 August - 2018 September}
-\descript{MS in Physics}
+\descript{MS Physics}
 \location{2015 June }
 \sectionsep
 
@@ -129,6 +129,7 @@ seaborn \textbullet{} data visualization\\
 \subsection{Soft}
 Academic conference presentations\\
 Invited speaker IQT 2019\\
+\href{https://quantum.ieee.org/podcasts/special-episode-travis-scholten}{2020 IEEE Quantum podcast} \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -179,7 +180,7 @@ Invited speaker IQT 2019\\
 Identify and execute on opportunities for collaboration with IBM Q Network startups, and support IBM Quantum's business development team.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Presented 20+ quantum computing talks to potential and actual clients
+\item Presented 20+ technical talks on quantum computing talks to C-suite and technical audience
 \item Built and maintain Airtable database of IBM Q Network research papers
 \item Assist business development team in use case/application discussions
 \item Completed 1 research project with IBM Q Network startup
@@ -196,9 +197,8 @@ Identify and execute on opportunities for collaboration with IBM Q Network start
 PhD research in quantum characterization, verification, and validation specializing in model selection, hypothesis testing, and machine learning techniques.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Developed a 1300-line Python code base research, data analysis, and visualization
-\item Used a high-performance computing cluster and learned code parallelization techniques
-\item Presented multiple conference talks (10+) and posters
+\item Developed Python code base for research and data analysis \& used a high-performance computing cluster.
+\item Presented multiple conference talks (10+) and posters (3)
 \item Participated in graduate student association legislature as a member, and became Finance Council Vice-Chair
 \item Organized computing workshop for research group
 \end{tightemize}
@@ -219,9 +219,9 @@ PhD research in quantum characterization, verification, and validation specializ
 | Teaching Assistant, Physics and Astronomy \\
 \location{2012 August - 2013 May | Albuquerque, NM}
 Taught undergraduate labs and helped with a graduate level course.
-\begin{tightemize}
-\item Wrote lecture notes, graded homework assignments, and held office hours
-\end{tightemize}
+%\begin{tightemize}
+%\item Wrote lecture notes, graded homework assignments, and held office hours
+%\end{tightemize}
 \sectionsep
 
 %\runsubsection{California Institute of Technology}
