@@ -261,10 +261,19 @@ Research project on adiabatic quantum computation.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Publications} 
-~\\~\\ %\renewcommand\refname{\vskip} % Couldn't get this working from the .cls file
-\bibliography{resume}
-\bibliographystyle{plain}
-\nocite{*}
+5. \textbf{Analyzing the Performance of Variational Quantum Factoring on a Superconducting Quantum Processor}. Amir H. Karamlou, William A. Simon, Amara Katabarwa, \underline{Travis L. Scholten}, Borja Peropadre, and Yudong Cao. \href{}{\emph{In preparation}.}
+~\\
+4. \textbf{Gate Set Tomography}. Erik Nielsen, John King Gamble, Kenneth Rudinger, \underline{Travis L. Scholten}, Kevin Young, and Robin Blume-Kohout. \href{https://arxiv.org/abs/2009.07301}{\emph{arXiv} 2009.07301}
+~\\
+3. \textbf{Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack}. Daniel Mills, Seyon Sivarajah,\underline{Travis L. Scholten}, and Ross Duncan. \href{https://arxiv.org/abs/2006.01273}{\emph{arXiv} 2006.01273}
+~\\
+2. \textbf{Classifying Single-Qubit Noise Using Machine Learning}. \underline{Travis L. Scholten}, Yi-Kai Liu, Kevin Young, and Robin Blume-Kohout. \href{https://arxiv.org/abs/1908.11762}{\emph{arXiv} 1908.11762}
+~\\
+\textbf{Towards Scalable Characterization of Noisy, Intermediate-Scale Quantum Information Processors}. \underline{Travis L. Scholten}. PhD thesis; available via \href{https://digitalrepository.unm.edu/phyc_etds/205/}{UNM Digital Repository}
+~\\
+1. \textbf{Behavior of the Maximum Likelihood in Quantum State Tomography}. \underline{Travis L. Scholten} and Robin Blume-Kohout. 
+\href{https://dx.doi.org/10.1088/1367-2630/aaa7e2}{\emph{New Journal of Physics} \textbf{20} 023050}; \href{https://arxiv.org/abs/1609.04385}{\emph{arXiv} 1609.04385}
+
 
 \end{minipage} 
 \end{document} 
