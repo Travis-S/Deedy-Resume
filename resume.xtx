@@ -126,6 +126,7 @@ Python \textbullet{} numpy \textbullet pandas\\
 git/GitHub \textbullet{} Jupyter notebook \textbullet{} \\
 seaborn \textbullet{} Airtable\\
 %\location{Basic:}
+~\\~\\
 \subsection{Communication}
 23 talks \textbullet{}  3 posters\textbullet{}  2 podcasts\\
 Invited speaker IQT 2019\\
@@ -176,19 +177,16 @@ Invited speaker IQT 2019\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{IBM Quantum}
-| Quantum Computing Applications Researcher \\
-\location{2018 October - present | Yorktown Heights, NY}
-Work with startups and industry partners in the IBM Quantum Network to do joint research and development and other technical projects.
+\runsubsection{IBM Quantum}\\
+Quantum Applications Architect \\
+\location{2021 August - present | Yorktown Heights, NY} ~\\
+Quantum Computing Applications Researcher \\
+\location{2018 October - 2021 July | Yorktown Heights, NY}
+Work with startups and industry partners in the IBM Quantum Network on joint research and development and other technical projects.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Completed 2 research projects with IBM Quantum Startup Program members
-\item Ongoing research project with IBM Quantum Network Partner
-\item Presented 20+ technical talks on quantum computing to C-suite and technical audience
-\item Assist business development team in use case/application discussions
-\item Built and maintain database of IBM Quantum Network research papers
-\item Lead organizer of IBM Quantum involvement in IEEE Quantum Week 2020 (40+ people)
-\item Lead organizer of workshop on \emph{Software for Quantum Applications, Algorithms, and Workflows} at IEEE Quantum Week 2020
+\item Completed 2 research projects with IBM Quantum Startup Program members \& 1 Quantum Network Partner
+\item Presented 20+ technical talks to C-suite and technical audience
 \end{tightemize}
 \sectionsep
 
@@ -218,7 +216,7 @@ PhD research in quantum characterization, verification, and validation specializ
 
 \runsubsection{University of New Mexico}
 %\descript{| Teaching Assistant}
-| Teaching Assistant, Physics and Astronomy \\
+| Teaching Assistant, Physics \& Astronomy \\
 \location{2012 August - 2013 May | Albuquerque, NM}
 Taught undergraduate labs and helped with a graduate level course.
 %\begin{tightemize}
