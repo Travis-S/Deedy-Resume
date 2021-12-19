@@ -106,6 +106,10 @@
 \section{Other Experience}
 2020 - present: Advisory Board member,\\
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\href{https://unitary.fund/}{Unitary Fund}\\
+2021: Co-organizer, Open Quantum\\
+~~~~~~~~~~~~~~~Hardware Workshop\\
+2020:  Lead organizer, Quantum Software\\
+~~~~~~~~~~~~~~Workshop\\
 2017: Organizer, CQuIC Computing\\
 ~~~~~~~~~~~~~~~Workshop\\
 2016-17: Vice-Chair, GPSA Finance\\
@@ -128,7 +132,7 @@ seaborn \textbullet{} Airtable\\
 %\location{Basic:}
 ~\\~\\
 \subsection{Communication}
-23 talks \textbullet{}  3 posters\textbullet{}  2 podcasts \textbullet{} 2 panels\\
+24 talks \textbullet{}  3 posters\textbullet{}  2 podcasts \textbullet{} 2 panels\\
 Invited speaker IQT 2019\\
 \href{https://quantum.ieee.org/podcasts/special-episode-travis-scholten}{2020 IEEE Quantum podcast} \\
 \href{https://anchor.fm/quantumcomputingnow/episodes/Travis-Scholten-and-News-from-IEEE-Quantum-Week---Episode-23-Hybrid-em960c}{Quantum Computing Now podcast}
@@ -177,8 +181,7 @@ Invited speaker IQT 2019\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{IBM Quantum}\\
-Quantum Applications Architect \\
+\runsubsection{IBM Quantum} | Quantum Applications Architect \\
 \location{2021 August - present | Yorktown Heights, NY} ~\\
 Quantum Computing Applications Researcher \\
 \location{2018 October - 2021 July | Yorktown Heights, NY}
@@ -263,18 +266,19 @@ Research project on adiabatic quantum computation.
 
 \section{Publications} 
 \href{https://scholar.google.com/citations?user=FolEG3MAAAAJ&hl=en}{Google Scholar Page}~\\~\\
-5. \textbf{Analyzing the Performance of Variational Quantum Factoring on a Superconducting Quantum Processor}. Amir H. Karamlou, William A. Simon, Amara Katabarwa, \underline{Travis L. Scholten}, Borja Peropadre, and Yudong Cao. \href{https://arxiv.org/abs/2012.07825}{\emph{arXiv} 2012.07825}
+6. \textbf{Kernel Matrix Completion for Offline Quantum-Enhanced Machine Learning}. Annie Naveh, Imogen Fitzgerald, Anna Phan, Andrew Lockwood, \& \underline{Travis L. Scholten}. \href{https://arxiv.org/abs/2112.08449}{\emph{arXiv} 2112.08449}~\\~\\
+5. \textbf{Analyzing the Performance of Variational Quantum Factoring on a Superconducting Quantum Processor}. Amir H. Karamlou, William A. Simon, Amara Katabarwa, \underline{Travis L. Scholten}, Borja Peropadre, \& Yudong Cao. \href{https://doi.org/10.1038/s41534-021-00478-z}{npj Quantum Inf \textbf{7}, 156 (2021)}
 ~\\~\\
-4. \textbf{Gate Set Tomography}. Erik Nielsen, John King Gamble, Kenneth Rudinger, \underline{Travis L. Scholten}, Kevin Young, and Robin Blume-Kohout. \href{https://arxiv.org/abs/2009.07301}{\emph{arXiv} 2009.07301}
+4. \textbf{Gate Set Tomography}. Erik Nielsen, John King Gamble, Kenneth Rudinger, \underline{Travis L. Scholten}, Kevin Young, \& Robin Blume-Kohout. \href{https://doi.org/10.22331/q-2021-10-05-557}{\emph{Quantum} \textbf{5} 557}
 ~\\~\\
-3. \textbf{Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack}. Daniel Mills, Seyon Sivarajah,\underline{Travis L. Scholten}, and Ross Duncan. \href{https://doi.org/10.22331/q-2021-03-22-415}{\emph{Quantum} \textbf{5} 415}; \href{https://arxiv.org/abs/2006.01273}{\emph{arXiv} 2006.01273}
+3. \textbf{Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack}. Daniel Mills, Seyon Sivarajah, \underline{Travis L. Scholten}, \& Ross Duncan. \href{https://doi.org/10.22331/q-2021-03-22-415}{\emph{Quantum} \textbf{5} 415}
 ~\\~\\
-2. \textbf{Classifying Single-Qubit Noise Using Machine Learning}. \underline{Travis L. Scholten}, Yi-Kai Liu, Kevin Young, and Robin Blume-Kohout. \href{https://arxiv.org/abs/1908.11762}{\emph{arXiv} 1908.11762}
+2. \textbf{Classifying Single-Qubit Noise Using Machine Learning}. \underline{Travis L. Scholten}, Yi-Kai Liu, Kevin Young, \& Robin Blume-Kohout. \href{https://arxiv.org/abs/1908.11762}{\emph{arXiv} 1908.11762}
 ~\\~\\
 \textbf{Towards Scalable Characterization of Noisy, Intermediate-Scale Quantum Information Processors}. \underline{Travis L. Scholten}. PhD thesis; available via \href{https://digitalrepository.unm.edu/phyc_etds/205/}{UNM Digital Repository}
 ~\\~\\
-1. \textbf{Behavior of the Maximum Likelihood in Quantum State Tomography}. \underline{Travis L. Scholten} and Robin Blume-Kohout. 
-\href{https://dx.doi.org/10.1088/1367-2630/aaa7e2}{\emph{New Journal of Physics} \textbf{20} 023050}; \href{https://arxiv.org/abs/1609.04385}{\emph{arXiv} 1609.04385}
+1. \textbf{Behavior of the Maximum Likelihood in Quantum State Tomography}. \underline{Travis L. Scholten} \& Robin Blume-Kohout. 
+\href{https://dx.doi.org/10.1088/1367-2630/aaa7e2}{\emph{New Journal of Physics} \textbf{20} 023050}
 
 
 \end{minipage} 
