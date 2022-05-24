@@ -54,8 +54,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Travis L}{Scholten}{ \urlstyle{same}\href{http://travisscholten.com}{Website}~~
-\href{https://www.linkedin.com/pub/travis-scholten/b3/6b4/aa9}{LinkedIn}~~\href{https://twitter.com/Travis_Sch}{Twitter}~~\href{mailto:travisscholten@pm.me}{Email}~~\href{https://github.com/Travis-S}{Github}}
+\namesection{Max}{Martin}{ \urlstyle{same}\href{http://travisscholten.com}{Website}~~
+\href{https://www.linkedin.com/in/max-martin-16bb4523b/}{LinkedIn}~~\href{mailto:max.martin@westpoint.edu}{Email}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -71,17 +71,15 @@
 
 \section{Education} 
 
-\subsection{University of New Mexico}
-\descript{Ph D Physics}
-\location{2012 August - 2018 September}
-\descript{MS Physics}
-\location{2015 June }
+\subsection{United States Military Academy}
+\descript{BS Mathematical Sciences}
+\location{2020 August - Present}
+\descript{Latin American Regional Studies Minor}
 \sectionsep
 
-\subsection{California Institute}
-\subsection{of Technology}
-\descript{BS Physics}
-\location{2008 August - 2012 June}
+\subsection{Lincoln High School}
+\descript{High School Diploma}
+\location{2016 August - 2020 May}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
