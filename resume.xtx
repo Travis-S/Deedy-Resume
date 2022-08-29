@@ -105,17 +105,17 @@
 
 \section{Other Experience}
 2022 - present: Board of Directors,\\
-~~~~~~~~~~~~~~~~\href{https://unitary.fund/}{Unitary Fund}\\
-2020 - present: Advisory Board member,\\
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\href{https://unitary.fund/}{Unitary Fund}\\
-2021: Co-organizer, Open Quantum\\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\href{https://unitary.fund/}{Unitary Fund}\\
+2020 - 2022: Advisory Board member,\\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\href{https://unitary.fund/}{Unitary Fund}\\
+2021: \href{https://unitaryfund.github.io/openquantumhardware-workshop/}{Co-organizer, Open Quantum}\\
 ~~~~~~~~~~~~~~~Hardware Workshop @QCE21\\
 2020:  Lead organizer, Quantum Software\\
 ~~~~~~~~~~~~~~Workshop @QCE20\\
 %2017: Organizer, CQuIC Computing\\
 %~~~~~~~~~~~~~~~Workshop\\
-%2016-17: Vice-Chair, GPSA Finance\\
-%~~~~~~~~~~~~~~~~~~~~~~Committee\\
+2016-2017: Vice-Chair, UNM GPSA\\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Finance Committee\\
 %2015-17: GPSA Council Representative,\\
 %~~~~~~~~~~~~~~~~~~~~~~~Physics and Astronomy
 \sectionsep
@@ -134,7 +134,7 @@ seaborn \textbullet{} Airtable\\
 %\location{Basic:}
 ~\\~\\
 \subsection{Communication}
-25 talks \textbullet{}  3 posters\textbullet{}  2 podcasts \textbullet{} 2 panels\\
+25 talks \textbullet{}  3 posters\textbullet{}  2 podcasts \textbullet{} 3 panels\\
 Invited speaker IQT 2019\\
 \href{https://quantum.ieee.org/podcasts/special-episode-travis-scholten}{2020 IEEE Quantum podcast} \\
 \href{https://anchor.fm/quantumcomputingnow/episodes/Travis-Scholten-and-News-from-IEEE-Quantum-Week---Episode-23-Hybrid-em960c}{Quantum Computing Now podcast}
@@ -184,23 +184,24 @@ Invited speaker IQT 2019\\
 
 \section{Experience}
 \runsubsection{IBM Quantum} | Quantum Applications Architect \\
-\location{2021 August - present | Yorktown Heights, NY} ~\\
-Quantum Computing Applications Researcher \\
-\location{2018 October - 2021 July | Yorktown Heights, NY}
-Work with startups and industry partners in the IBM Quantum Network on joint research and development and other technical projects.
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Completed 2 research projects with IBM Quantum Startup Program members \& 1 Quantum Network Partner
-\item Presented 20+ technical talks to C-suite and technical audience
-\end{tightemize}
+\location{2021 August - present | Yorktown Heights, NY} 
+Establish cross-organization collaborations \& ensure transparency/legibility of research activity with external organizations~\\
 \sectionsep
 
-\runsubsection{Sandia National Laboratories}
-%\descript{| Student Intern}
-| Student Intern \\
+\runsubsection{IBM Quantum} | Quantum Computing Applications Researcher\\
+\location{2018 October - 2021 July | Yorktown Heights, NY}
+Work with startups and industry partners in the IBM Quantum Network on joint research and development and other technical projects.
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\begin{tightemize}
+%\item Completed 2 research projects with IBM Quantum Startup Program members \& 1 Quantum Network Partner
+%\item Presented 20+ technical talks to C-suite and technical audience
+%\end{tightemize}
+\sectionsep
+
+\runsubsection{Sandia National Laboratories} | Student Intern \\
 \location{2013 May - 2018 September | Albuquerque, NM}
 PhD research in quantum characterization, verification, and validation specializing in model selection, hypothesis testing, and machine learning techniques.
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
 %\begin{tightemize}
 %\item Developed Python code base for research and data analysis \& used a high-performance computing cluster.
 %\item Presented multiple conference talks (10+) and posters (3)
@@ -219,29 +220,24 @@ PhD research in quantum characterization, verification, and validation specializ
 %\end{tightemize}
 %\sectionsep
 
-\runsubsection{University of New Mexico}
-%\descript{| Teaching Assistant}
-| Teaching Assistant, Physics \& Astronomy \\
+\runsubsection{University of New Mexico} | Teaching Assistant, Physics \& Astronomy \\
 \location{2012 August - 2013 May | Albuquerque, NM}
-Taught undergraduate labs and helped with a graduate level course.
+%Taught undergraduate labs and helped with a graduate level course.
 %\begin{tightemize}
 %\item Wrote lecture notes, graded homework assignments, and held office hours
 %\end{tightemize}
 \sectionsep
 
-%\runsubsection{California Institute of Technology}
-%\descript{| Tour Guide }
-%\location{June 2011 - June 2012 | Pasadena, CA}
+\runsubsection{California Institute of Technology} | Tour Guide \\
+\location{June 2011 - June 2012 | Pasadena, CA}
 %\begin{tightemize}
 %\item Guided prospective students around campus and answered questions
 %\end{tightemize}
-%\sectionsep
+\sectionsep
 
-\runsubsection{California Institute of Technology}
-%\descript{| Summer Undergraduate Research Fellow }
-| Summer Undergraduate Research Fellow \\
+\runsubsection{California Institute of Technology} | Summer Undergraduate Research Fellow \\
 \location{2011 June - 2011 September | Pasadena, CA}
-Research project on adiabatic quantum computation. 
+%Research project on adiabatic quantum computation. 
 %\begin{tightemize}
 %\item Wrote Matlab code for numerical simulations
 %\item Advanced to final round of the annual Perpall speaking competition
